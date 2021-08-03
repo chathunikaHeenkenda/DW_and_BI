@@ -1,0 +1,101 @@
+ID,vehicleNo,colour,vehicleCategoryId
+1,"EUS-687, Alaska",Cerise,71
+2,"ABC-687, Alaska",Apricot,72
+3,"5504, Amarican Samoa",Mauve,73
+4,"6002, Amarican Samoa",Auburn,74
+5,"514 KZE, Arkansas",Capri,75
+6,"348 DTY, Arkansas",Silver,76
+7,"6TRJ244, California ",Gray,77
+8,"7YTK355, California ",Auburn,78
+9,"510 IBD, Colorado",Rosewood,79
+10,"345 SFG, Colorado",Amethyst,100
+11,"532484, Delaware",Orange,1
+12,"109287, Delaware",Sky blue,2
+13,"EK 3333, District of Columbia",Sky blue,3
+14,"DG 3537, District of Columbia",Cerise,4
+15,"IVT E32, Florida",Salmon,5
+16,"CGH W45, Florida",White,6
+17,"TU 250, Guam",Red,7
+18,"DG 356, Guam",Mauve,8
+19,"MNG 728, Hawaii",Cyan,9
+20,"SFG 523, Hawaii",Lavender,10
+21,"1A WJ785, Idaho",Purple,11
+22,"7D MT413, Idaho",Olive,12
+23,"AU 73671, Illinois",Blue,13
+24,"DG 68912, Illinois",Carmine,14
+25,"999AAA, Indiana",Lavender,15
+26,"555DDD, Indiana",Sienna,16
+27,"123 ABC, Kansas",Peach,17
+28,"678 FHJ, Kansas",coral,18
+29,"MD PROUD, Maryland",Peach,19
+30,"FG CROWN, Maryland",Rosewood,20
+31,"10787, Massachusetts",Turquoise,21
+32,"12304, Massachusetts",Barbie Pink,43
+33,"1HA W48, Michigan",Lime,44
+34,"5DF M86, Michigan",Maroon,45
+35,"457 MKZ, Minnesota",Orange,46
+36,"986 TAE, Minnesota",Fuchsia,47
+37,"XD1 EOW, Missouri ",Dark Red,48
+38,"MS3 GYD, Missouri ",Cerise,49
+39,"RAF 660, Mississippi",Aquamarine,50
+40,"DRT 443, Mississippi",Brown,51
+41,"3P 22948, Montana",Orange,52
+42,"6T 25656, Montana",Salmon,53
+43,"348A, Native Amarican tribes",Magenta,54
+44,"983S, Native Amarican tribes",Cerise,55
+45,"V1B 529, Nebraska ",Lime,56
+46,"F4D 467, Nebraska ",Apricot,57
+47,"890 H14, Nevada",Mauve,58
+48,"890 H14, Nevada",Azure,59
+49,"305 4924, New Hampshire",White,60
+50,"247 4682, New Hampshire",Cyan,61
+51,"C90 ELE, New jersey",Fuchsia,62
+52,"S56 FOF, New jersey",Gray,63
+53,"999 NNN, New Mexico",Auburn,23
+54,"555 SSS, New Mexico",Ruby,24
+55,"KED 9205, New York",Black,25
+56,"ETY 3657, New York",Lime,26
+57,"BAC 5359, North Carolina ",Rosewood,27
+58,"DGH 4692, North Carolina ",Lime,28
+59,"CAN 374, Nothern Mariana Islands",Salmon,29
+60,"WXZ 689, Nothern Mariana Islands",Rosewood,30
+61,"942 FQL, Oregon ",Beige,31
+62,"578 GKJ, Oregon ",Emerald,32
+63,"HMM 3999, Pennsylvania",Dark Red,33
+64,"RGG 4888, Pennsylvania",Fuchsia,34
+65,"KS 693, Rhode island",Green,35
+66,"SD 472, Rhode island",Cerise,36
+67,"LHD 8448, Texas",Beige,37
+68,"CGJ 7667, Texas",Sienna,38
+69,"V57 6AE, Utah",Pink,39
+70,"D23 9GH, Utah",Salmon,40
+71,"CGX 308, Vermont",Rust,41
+72,"VHU 567, Vermont",Rust,42
+73,"YHT 9919, Virginia",Blue,80
+74,"ASD 4406, Virginia",Brown,81
+75,"458 UGU, Washington",Pink,82
+76,"345 BJB, Washington",coral,83
+77,"NAD 434, West Verginia",Pink,84
+78,"FGH 767, West Verginia",Beige,85
+79,"777 LLL, Wisconsin",Sky blue,86
+80,"666 FFF, Wisconsin",Dark red,87
+81,"PHH 2444, Pennsylvania",Capri,88
+82,"DJJJ 3777, Pennsylvania",Camel,89
+83,"678 ERE, Washington",Camel,90
+84,"917 SDS, Washington",Cyan,91
+85,"GHT 121, West Verginia",Rosewood,92
+86,"BNJ 909, West Verginia",Red,93
+87,"BUT 8878, Virginia",Aqua,94
+88,"VAT 1121, Virginia",Mauve,95
+89,"ZXC 123, Vermont",Brown,96
+90,"QWE 567, Vermont",Magenta,97
+91,"B67 7BE, Utah",Mauve,98
+92,"E45 1HE, Utah",Aqua,99
+93,"RTY 1221, Texas",Fuchsia,100
+94,"IOP 9009, Texas",Red,64
+95,"MN 123, Rhode island",Silver,65
+96,"UH 789, Rhode island",Mauve,66
+97,"QWE 123, New York",Rosegold,67
+98,"DFG 409, New York",Magenta,68
+99,"545 TYU, New Mexico",Yellow,69
+100,"789 HJK, New Mexico",Orange,70
